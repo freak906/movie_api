@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+.api {
+    text-align: center;
+}
+.table {
+    border: 1px solid;
+}
+th {
+    font-size: 18px;
+    border: 0.7px solid black;
+}
+td {
+    border: 0.7px solid black;
+}
