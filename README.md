@@ -1,8 +1,8 @@
 #  MyFlix Movie_Api
 
-## Description
+## Objective
 
-The MyFlix application will provide users with access to information about different movies, directors, and genres. Users will be able to sign up, update their personal information, and create a list of their favorite movies.
+To build an application that will provide users with access to information about different movies, directors, and genres. Users will be able to sign up, update their personal information, and create a list of their favorite movies.
 
 ## Key Features
 
@@ -15,3 +15,19 @@ The MyFlix application will provide users with access to information about diffe
 + Allow users to add a movie to their list of favorites
 + Allow users to remove a movie from their list of favorites
 + Allow existing users to deregister
+
+## Links
+[GitHub page with code](https://github.com/nick-vns/movie_api)
+
+[Web-Application](https://myflix-app.herokuapp.com/)
+
+## Programming languages
+
++ Node.js
++ Express
++ JavaScript
++ JSON
+
+## Database
+
++ MongoDB
