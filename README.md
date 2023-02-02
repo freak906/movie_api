@@ -1,8 +1,8 @@
 #  MyFlix Movie_Api
 
-## Objective
+## Description 
 
-To build an application that will provide users with access to information about different movies, directors, and genres. Users will be able to sign up, update their personal information, and create a list of their favorite movies.
+An API that has been built by using Node.js Express and JavaScript, with mongoDB to create accounts and store it in datatbase as well as data for movies, genres, directors. Allow to add new user as well as update and delete, make sure users have hash passwords and limited access to API.
 
 ## Key Features
 
