@@ -6,15 +6,16 @@ An API that has been built by using Node.js Express and JavaScript, with mongoDB
 
 ## Key Features
 
-+ Return a list of ALL movies to the user
-+ Return data (description, genre, director, image URL, whether it’s featured or not)
-+ Return data about a genre (description) by name/title (e.g., “Thriller”)
-+ Return data about a director (bio, birth year, death year) by name
-+ Allow new users to register
-+ Allow users to update their user info (username, password, email, date of birth)
-+ Allow users to add a movie to their list of favorites
-+ Allow users to remove a movie from their list of favorites
-+ Allow existing users to deregister
+### CRUD system that allows to:
++ Get all movies
++ Get single movie by the title
++ Get genre by the title and it's description
++ Get director by name and all his info
++ Create new user
++ Update user's info
++ Post user's favorite movie into array
++ Delete user's favorite movie from array
++ Delete an existing user
 
 ## Links
 [GitHub page with code](https://github.com/nick-vns/movie_api)
