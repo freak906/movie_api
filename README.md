@@ -1,4 +1,4 @@
-#  MyFlix Movie_Api
+#  CinemaFlix Movie_Api
 
 ## Description 
 
